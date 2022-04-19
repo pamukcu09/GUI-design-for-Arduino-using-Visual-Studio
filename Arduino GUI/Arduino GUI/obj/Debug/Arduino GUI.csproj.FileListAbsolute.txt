@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Form1.resources
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\obj\Debug\Arduino_GUI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe.config
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.exe
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\bin\Debug\Arduino GUI.pdb
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.exe
+C:\Users\Lenovo\source\repos\Arduino GUI\Arduino GUI\obj\Debug\Arduino GUI.pdb
